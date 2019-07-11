@@ -12,9 +12,10 @@ baseurl: /
 title: Michele Mischitelli's blog
 description: A blog about myself
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
+logo: assets/images/blog-logo.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
+url: https://mmischitelli.github.io
 production_url: https://mmischitelli.github.io
 source_url: https://github.com/mmischitelli/blog-source
 CNAME: #add cname for website to be created
