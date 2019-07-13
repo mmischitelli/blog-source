@@ -5,7 +5,7 @@ navigation: True
 cover:  assets/images/portfolio/ambient-occlusion.jpg
 title: Baked ambient occlusion
 excerpt: A naive approach to computing and storing ambient occlusion data for arbitrary meshes
-date: 2008-11-10 10:00:00
+date: 2007-11-10 10:00:00
 class: post-template
 subclass: 'post'
 author: mmischitelli

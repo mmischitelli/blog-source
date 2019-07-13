@@ -5,7 +5,7 @@ navigation: True
 cover:  assets/images/portfolio/procedural-stones.jpg
 title: Procedural marble and granite
 excerpt: Using perlin noise to procedurally generate textures instead of photos for 3D visualization
-date: 2008-12-20 10:00:00
+date: 2007-12-20 10:00:00
 class: post-template
 subclass: 'post'
 author: mmischitelli

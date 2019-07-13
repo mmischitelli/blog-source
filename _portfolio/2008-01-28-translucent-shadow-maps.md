@@ -5,7 +5,7 @@ navigation: True
 cover:  assets/images/portfolio/subsurface-scattering.jpg
 title: Subsurface scattering using TSM
 excerpt: A fully real-time technique for computing the subsurface scattering of light in materials
-date: 2009-01-28 10:00:00
+date: 2008-01-28 10:00:00
 class: post-template
 subclass: 'post'
 author: mmischitelli
