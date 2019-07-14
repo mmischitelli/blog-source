@@ -23,6 +23,8 @@ CNAME: #add cname for website to be created
 collections:
   portfolio:
     output: true
+  thesis:
+    output: true
 
 # Social info
 navigation: True # show the navbar links
@@ -37,7 +39,7 @@ disqus: False
 disqus_shortname: jekyller # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: UA-51694480-3 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
