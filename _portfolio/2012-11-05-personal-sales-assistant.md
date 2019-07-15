@@ -4,7 +4,7 @@ current: post
 navigation: True
 cover:  assets/images/portfolio/psa-cover.jpg
 title: Personal sales assistant
-excerpt: iPad app 
+excerpt: iPad app used by sales assistants to collect orders
 date: 2012-11-05 10:00:00
 class: post-template
 subclass: 'post'
