@@ -2,6 +2,13 @@ cpp:
   name: cpp
   description: Content explicitly aimed at C++ developers
   cover: False
+ue4:
+  name: unrealengine4
+  description: Content created for Unreal Engine 4 developers
+  cover: False
+talks:
+  name: talks
+  description: Content produced to support my conference talks
 random:
   name: random
   description: False

@@ -25,6 +25,8 @@ collections:
     output: true
   thesis:
     output: true
+  talks:
+    output: true
 
 # Social info
 navigation: True # show the navbar links
@@ -33,6 +35,8 @@ navigation: True # show the navbar links
 # by editing `_includes/subscribe-form.html`
 twitter: michelemischit1 # replace by your username
 # facebook: ghost # replace by your username
+
+emptyArray: []
 
 # Disqus
 disqus: False

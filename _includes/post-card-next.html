@@ -14,7 +14,7 @@
                             {% if forloop.index == page.next.tags.size %}
                                 <span class="post-card-tags">{{ tag | capitalize }}</span>
                             {% else %}
-                               <span class="post-card-tags">{{ tag | capitalize }}</span>
+                               <span class="post-card-tags">{{ tag | capitalize }}, </span>
                             {% endif %}
                         {% endfor %}
                     {% endif %}
