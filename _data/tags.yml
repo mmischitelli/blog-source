@@ -13,4 +13,11 @@ random:
   name: random
   description: False
   cover: False
-  
+docker:
+  name: docker
+  description: Content targeting docker users (linux/windows)
+  cover: False
+linux:
+  name: linux
+  description: Content that specifically targets stuff that has been tested only on linux
+  cover: False
