@@ -14,7 +14,7 @@ author: mmischitelli
 
 Talk held on the 10th of October 2019 at MakeIt Modena for the [Italian C++ Community](https://www.italiancpp.org/).
 
-Begin an introduction, I took the chance to shed some light on game engines in general, describing their overall architecture and how some mandatory requirements made them evolve in complex frameworks.
+Beign an introduction, I took the chance to shed some light on game engines in general, describing their overall architecture and how some mandatory requirements made them evolve in complex frameworks.
 
 At this point, I could start diving into Unreal Engine 4, highlighting some key benefits and interesting aspects of this engine, especially if you are a C++ developer. As with every decent introduction in the world of programming, I could not avoid showing an `Hello, World` project. We then moved on making this example a little bit more *Unreal-esque*, turning the text into a dynamic string that can be edited in various ways.
 
