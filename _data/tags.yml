@@ -21,3 +21,7 @@ linux:
   name: linux
   description: Content that specifically targets stuff that has been tested only on linux
   cover: False
+diy:
+  name: doityourself
+  description: Content targeting small do-it-yourself projects
+  cover: False
